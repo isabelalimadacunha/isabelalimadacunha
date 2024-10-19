@@ -9,8 +9,9 @@
 - ⚡ I have a passion for creating innovative projects that combine creativity with problem-solving.
 
 ## What I’m Working On:
-- 🌱 Currently focusing on **React** and **JavaScript**, with a strong interest in working with **APIs**.
-- 💻 My primary programming language is **Java**, but I'm also eager to deepen my knowledge in **Python** and **SQL**.
+
+- 🌱 Currently focusing on **Data Science**, with a strong interest in working with **Python**, **SQL** and **data analysis** tools.
+- 💻 My primary programming language is **Java**, but I'm also eager to deepen my knowledge in **machine learning** techniques.
 
 ## Favorite Projects:
 💕 Here are some of my favorite projects that I've worked on. Feel free to check out the prototypes!
