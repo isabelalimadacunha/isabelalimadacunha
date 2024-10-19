@@ -15,7 +15,7 @@
 
 ## Favorite Projects:
 💕 Here are some of my favorite projects that I've worked on. Feel free to check out the prototypes!
-
+- **[Top-100-most-streamed-songs-on-Spotify](https://github.com/isabelalimadacunha/Top-100-most-streamed-songs-on-Spotify)**: This project analyzes the Top 100 most streamed songs on Spotify, focusing on key attributes like genre, artist, danceability, and popularity. 
 - **[Easy Diet](https://easydiet.vercel.app)**: A website that generates personalized diet plans based on individual goals and preferences.
 - **[Beatshuffle](https://beatshuffle.netlify.app)**: A music discovery app that helps users explore new genres and artists.
 
