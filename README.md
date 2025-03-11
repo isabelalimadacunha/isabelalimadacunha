@@ -5,7 +5,7 @@
 
 ## About me
 
-- 🎓 I'm a Computer Science student from Brazil, currently in my 4th semester at **Universidade do Vale do Rio dos Sinos (UNISINOS)**.
+- 🎓 I'm a Computer Science student from Brazil, currently in my 5th semester at **Universidade do Vale do Rio dos Sinos (UNISINOS)**.
 - ⚡ I have a passion for creating innovative projects that combine creativity with problem-solving.
 
 ## What I’m Working On:
