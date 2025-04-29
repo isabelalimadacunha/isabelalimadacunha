@@ -24,5 +24,5 @@ I’m always excited to collaborate on projects that challenge my creativity and
 
 ## How to Reach Me:
 - 📫 Email: [isabela.limadacunha6@gmail.com](mailto:isabela.limadacunha6@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/isabelalimacunha](https://www.linkedin.com/in/isabelalimacunha/)
+- 💼 LinkedIn: [linkedin.com/in/isabelalimadacunha/](https://www.linkedin.com/in/isabelalimadacunha/)
 
