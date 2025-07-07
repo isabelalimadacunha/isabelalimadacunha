@@ -5,12 +5,12 @@
 
 ## About me
 
-- 🎓 I'm a Computer Science student from Brazil, currently in my 5th semester at **Universidade do Vale do Rio dos Sinos (UNISINOS)**.
+- 🎓 I'm a Computer Science student from Brazil, currently in my 6th semester at **Universidade do Vale do Rio dos Sinos (UNISINOS)**.
 - ⚡ I have a passion for creating innovative projects that combine creativity with problem-solving.
 
 ## What I’m Working On:
 
-- 🌱 Currently focusing on **Data Science**, with a strong interest in working with **Python**, **SQL** and **data analysis** tools.
+- 🌱 Currently focusing on **Data Science**, with a strong interest in working with **Python**, **data analysis** and **artificial intelligence**.
 - 💻 My primary programming language is **Java**, but I'm also eager to deepen my knowledge in **machine learning** techniques.
 
 ## Favorite Projects:
